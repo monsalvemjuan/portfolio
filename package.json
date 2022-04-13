@@ -1,0 +1,21 @@
+{
+  "name": "portfolio_website_fcc",
+  "version": "1.0.0",
+  "description": "HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website\r =======\r ![Peek 2022-01-24 11-06](https://user-images.githubusercontent.com/11813341/150726892-d47d1860-b157-4453-aab0-860b1328b25c.gif)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monsalvemjuan/portfolio.git"
+  },
+  "keywords": ["portfolio", "services", "curriculum"],
+  "author": "Juan David Monsalve Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monsalvemjuan/portfolio/issues"
+  },
+  "homepage": "https://github.com/monsalvemjuan/portfolio#readme"
+}
